@@ -2,7 +2,7 @@
 program do synchronizacji listy anime ze strony shinden.pl ze stroną myanimelist.net
 
 # demo
-demo do uruchomienia znajduje się w archiwum rar w folderze demo
+demo do uruchomienia znajduje się w archiwum rar w folderze `demo`
 
 # pomoc
 [link do wiki](https://github.com/SteveMavic/mal-synchronizer/wiki)
